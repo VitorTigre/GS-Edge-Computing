@@ -39,9 +39,6 @@ Plataforma ThingSpeak
 Channel ID: 3161448
 Protocolo usado: HTTP
 
-Formato de envio:
-https://api.thingspeak.com/update?api_key=YOUR_KEY&field1=FOCUS&field2=STRESS
-
 # Como funciona a comunicação com o ThingSpeak (Modo HTTP)
 O ESP32 monta uma URL assim:
 https://api.thingspeak.com/update
